@@ -14,3 +14,5 @@ TCM:transmission control module，意思是自动变速器控制模块
 
 汽车的TCU是变速箱的调节电脑,只有自动变速箱汽车才会有tcu
 
+
+PK是英文Instrument Pack的筒写，中文意思是组合仪表，当今的数字仪表，有音乐，地图，通话等诸多娱乐功能。
