@@ -11,3 +11,6 @@ SAS:方向盘转角传感器  Steering Wheel Angle
 EPS:Electric Power Steering，即汽车上的电动助力转向系统
 
 TCM:transmission control module，意思是自动变速器控制模块
+
+汽车的TCU是变速箱的调节电脑,只有自动变速箱汽车才会有tcu
+
